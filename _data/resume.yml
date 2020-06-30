@@ -4,8 +4,8 @@
 title: "简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "许明宝"
-age: "24"
-jobtitle: "求职意向:Java工程师" #可空不显示
+jobtitle: "男/24
+ java" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -25,13 +25,14 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
-- type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+- type: 个人 #类别为ID
+  name: 个人信息 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 焦作大学
     duration: "2017年9月 - 2019年6月"
     detail: 信息工程
-
+    summary: 信息工程
+    
 - type: 技能
    #name: "技能"
   content:
