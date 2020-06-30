@@ -12,10 +12,10 @@ contact: #联系方式连接等3~5行
 - text: "xmb-mail@qq.com" #文本内容
   href: 'mailto:xmb-mail@qq.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "17633702443"
+- text: "176-3370-2443"
   href: 'tel:17633702443'
   icon: 'icons/phone.svg'
-- text: "Bolg"
+- text: "个人博客hgcloud.cn"
   href: 'http://hgclound.cn'
   icon: 'icons/web.svg'
   attr: 'target="_blank"' #新标签页打开
@@ -29,15 +29,10 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 焦作大学
     duration: "2017年9月 - 2019年6月"
-    sub: 地点或学历
     detail: 信息工程
-  - title: Your University
-    duration: Aug 2007 - Jun 2011
-    sub: Ut enim ad minim veniam
-    detail: Master Bachelor of Computer Science & Technology.
 
 - type: skills
-  # name: "技能"
+   name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
