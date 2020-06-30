@@ -31,8 +31,8 @@ main: #简历主要内容，
     duration: "2017年9月 - 2019年6月"
     detail: 信息工程
 
-- type: skills
-   name: "技能"
+- type: 技能
+   #name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
