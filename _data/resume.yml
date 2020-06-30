@@ -99,7 +99,7 @@ others: #其他列表显示
     - coding
   - title: 列表
     list:
-    - 第一项
+    - 
     - 第二项
 #- type: 
 #  name: '其他'
