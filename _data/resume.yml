@@ -19,8 +19,9 @@ contact: #联系方式连接等3~5行
   href: 'http://hgclound.cn'
   icon: 'icons/web.svg'
   attr: 'target="_blank"' #新标签页打开
- - text: "地址"
-    icon: "icons/location.svg"
+- text: "地址"
+  href: ''
+  icon: "icons/location.svg"
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
