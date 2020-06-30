@@ -41,8 +41,9 @@ main: #简历主要内容，
     - 
   - title: 工具
     summary: IDEA,MySQL,Docker容器
+    
   - title: 框架
-       summary: SpringBoot 
+    summary: SpringBoot 
 
 - type: experience
   name: 经验
