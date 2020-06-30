@@ -19,10 +19,6 @@ contact: #联系方式连接等3~5行
   href: 'http://hgclound.cn'
   icon: 'icons/web.svg'
   attr: 'target="_blank"' #新标签页打开
-- text: "男/24"
-  icon: 'icons/gr.svg'
-- text: "求职意向:Java后端工程师"
-  icon: 'icons/mb.svg'
   # - text: "地址"
   #   icon: "icons/location.svg"
 
