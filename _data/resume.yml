@@ -38,9 +38,11 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - Java
     - HTML
-    - MySQL
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+    - 
+  - title: 工具
+    summary: IDEA,MySQL,Docker容器
+  - title: 框架
+       summary: SpringBoot 
 
 - type: experience
   name: 经验
@@ -65,7 +67,7 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
+  - title: newBee商城
     duration: xxxx年xx月 - yyyy年yy月
     detail: 项目和工作介绍，项目总结.
     sub: 维护者
