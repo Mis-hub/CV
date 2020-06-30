@@ -9,10 +9,6 @@ photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "男/24"
-  icon: 'icons/个人信息.svg'
-- text: "求职意向:Java后端工程师"
-  icon: 'icons/目标.svg'
 - text: "xmb-mail@qq.com" #文本内容
   href: 'mailto:xmb-mail@qq.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
@@ -23,6 +19,10 @@ contact: #联系方式连接等3~5行
   href: 'http://hgclound.cn'
   icon: 'icons/web.svg'
   attr: 'target="_blank"' #新标签页打开
+- text: "男/24"
+  icon: 'icons/个人信息.svg'
+- text: "求职意向:Java后端工程师"
+  icon: 'icons/目标.svg'
   # - text: "地址"
   #   icon: "icons/location.svg"
 
